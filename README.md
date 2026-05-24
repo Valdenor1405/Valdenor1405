@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, sou VALDENOR COSTA DE AQUINO FILHO</h1>
-<h3 align="center">Especialista em Manutenção Industrial e Automação, em transição para Engenharia de Dados e Inteligência Artificial, com mais de 25 anos de experiência em manutenção industrial, instrumentação, válvulas, automação e sistemas HVAC.</h3>
+<h3 align="center">Industrial Maintenance Specialist transitioning to Data Engineering, Machine Learning and Industrial AI</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=valdenor1405&label=Profile%20views&color=0e75b6&style=flat" alt="valdenor1405" /> </p>
 

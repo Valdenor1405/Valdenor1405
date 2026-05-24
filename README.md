@@ -103,15 +103,21 @@ Estou construindo meu portfólio com projetos voltados para:
 ## 📊 Estatísticas GitHub
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Valdenor1405&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top languages" />
+  <img align="left" 
+       src="https://github-readme-stats.vercel.app/api/top-langs?username=Valdenor1405&show_icons=true&locale=pt-br&layout=compact&theme=tokyonight" 
+       alt="Principais idiomas" />
 </p>
 
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Valdenor1405&show_icons=true&locale=en&theme=tokyonight" alt="GitHub stats" />
+  <img align="center" 
+       src="https://github-readme-stats.vercel.app/api?username=Valdenor1405&show_icons=true&locale=pt-br&theme=tokyonight" 
+       alt="Estatísticas do GitHub" />
 </p>
 
 <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Valdenor1405&theme=tokyonight" alt="GitHub streak" />
+  <img align="center" 
+       src="https://github-readme-streak-stats.herokuapp.com/?user=Valdenor1405&theme=tokyonight" 
+       alt="GitHub streak" />
 </p>
 
 ---

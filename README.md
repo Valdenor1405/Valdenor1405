@@ -100,12 +100,16 @@ Estou construindo meu portfólio com projetos voltados para:
 
 ---
 
-## 📊 Estatísticas GitHub
+## 📊 GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Valdenor1405&show_icons=true&theme=tokyonight)
+🚀 Perfil em construção.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Valdenor1405&layout=compact&theme=tokyonight)
-
+Em breve este espaço terá projetos de:
+- Engenharia de Dados
+- Inteligência Artificial Industrial
+- Manutenção Preditiva
+- Automação Industrial
+- Análise de Dados HVAC
 ---
 
 ## 💡 Frase profissional

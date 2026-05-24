@@ -26,8 +26,8 @@ AI • Data Engineering • Automation • Software Development
   - Automation
   - Data Analysis
   - AI
-  - HVAC Tech
   - Industrial Systems
+    
 - 📫 Contact:
   - **valdenor.aquino@gmail.com**
 

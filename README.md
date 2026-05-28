@@ -1,56 +1,56 @@
-# Hi 👋, I'm Valdenor Costa de Aquino Filho
+# Olá 👋, eu sou Valdenor Costa de Aquino Filho
 
-### 🚀 DevOps Engineer | Data Engineer | AI & Automation Enthusiast
+### 🚀 Engenharia DevOps | Engenharia de Dados | Entusiasta de IA e Automação
 
-Passionate about technology, automation, cloud computing, DevOps practices, data engineering, and artificial intelligence.
+Apaixonado por tecnologia, automação, computação em nuvem, práticas DevOps, engenharia de dados e inteligência artificial.
 
-With over 25 years of experience in Industrial Maintenance, Instrumentation, Automation, and Reliability Engineering, I am currently transitioning my career into DevOps, Cloud, Data Engineering, and AI-driven solutions.
+Com mais de 25 anos de experiência em Manutenção Industrial, Instrumentação, Automação e Engenharia de Confiabilidade, estou direcionando minha carreira para DevOps, Cloud Computing, Engenharia de Dados e soluções baseadas em Inteligência Artificial.
 
 ---
 
-## 🚀 About Me
+## 🚀 Sobre Mim
 
-* 🔭 Building DevOps, Data Engineering, Cloud, and AI projects
+* 🔭 Desenvolvendo projetos de DevOps, Engenharia de Dados, Cloud Computing e Inteligência Artificial
 
-* 🌱 Currently learning and improving:
+* 🌱 Atualmente estudando e aprimorando conhecimentos em:
 
   * Python
   * SQL
   * Docker
   * Linux
-  * Git & GitHub
-  * CI/CD Pipelines
-  * Cloud Computing (AWS/Azure)
-  * Data Engineering
+  * Git e GitHub
+  * Pipelines CI/CD
+  * Computação em Nuvem (AWS e Azure)
+  * Engenharia de Dados
   * Machine Learning
-  * Infrastructure as Code (IaC)
+  * Infraestrutura como Código (IaC)
 
-* 👯 Open to collaborate on:
+* 👯 Buscando colaborar em projetos de:
 
-  * DevOps Projects
-  * Data Engineering Solutions
-  * Cloud Infrastructure
-  * Python Applications
-  * AI Automation
+  * DevOps
+  * Engenharia de Dados
+  * Cloud Computing
+  * Aplicações Python
+  * Automação com IA
 
-* 💬 Ask me about:
+* 💬 Pergunte-me sobre:
 
   * DevOps
   * Python
   * Linux
   * Docker
-  * Automation
-  * Data Analysis
-  * Artificial Intelligence
-  * Industrial Systems
+  * Automação
+  * Análise de Dados
+  * Inteligência Artificial
+  * Sistemas Industriais
 
-* 📫 Contact:
+* 📫 Contato:
 
   * **[valdenor.aquino@gmail.com](mailto:valdenor.aquino@gmail.com)**
 
 ---
 
-## 🌐 Connect With Me
+## 🌐 Conecte-se Comigo
 
 <p align="left">
 <a href="https://www.linkedin.com/in/valdenor-aquino/" target="_blank">
@@ -60,103 +60,107 @@ With over 25 years of experience in Industrial Maintenance, Instrumentation, Aut
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tecnologias e Ferramentas
 
-### Programming & Data
+### 💻 Programação e Dados
 
-<p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
-</p>
+* Python
+* SQL
+* PostgreSQL
+* Pandas
+* JavaScript
 
-### DevOps & Cloud
+### ⚙️ DevOps e Cloud
 
-<p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/>
-</p>
+* Docker
+* Linux
+* Git
+* GitHub
+* GitHub Actions
+* CI/CD
+* AWS (em aprendizado)
+* Azure (em aprendizado)
 
-### AI & Machine Learning
+### 🤖 Inteligência Artificial e Machine Learning
 
-<p align="left">
-<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" height="40"/>
-</p>
-
----
-
-## 📂 Featured Areas
-
-* ⚙️ DevOps Engineering
-* ☁️ Cloud Computing
-* 🔄 CI/CD Pipelines
-* 🐳 Docker & Containers
-* 📊 Data Engineering
-* 🤖 Artificial Intelligence
-* 🐍 Python Development
-* 📈 Data Analytics
-* 🔌 Industrial Automation
-* 🌐 Software Development
+* TensorFlow
+* Machine Learning
+* Automação com IA
 
 ---
 
-## 📌 Current Goals
+## 📂 Áreas de Atuação
 
-* Build real-world DevOps projects
-* Master CI/CD pipelines
-* Learn Kubernetes and Infrastructure as Code
-* Develop scalable cloud solutions
-* Create data pipelines and ETL workflows
-* Build AI-powered applications
-* Contribute to open-source projects
+* ⚙️ Engenharia DevOps
+* ☁️ Computação em Nuvem
+* 🔄 Integração e Entrega Contínua (CI/CD)
+* 🐳 Containers e Docker
+* 📊 Engenharia de Dados
+* 🤖 Inteligência Artificial
+* 🐍 Desenvolvimento Python
+* 📈 Análise de Dados
+* 🔌 Automação Industrial
+* 🌐 Desenvolvimento de Software
 
 ---
 
-## 🚀 Featured Projects
+## 📌 Objetivos Atuais
+
+* Desenvolver projetos reais de DevOps
+* Dominar pipelines CI/CD
+* Aprender Kubernetes e Infraestrutura como Código
+* Construir soluções escaláveis em nuvem
+* Desenvolver pipelines de dados e processos ETL
+* Criar aplicações com Inteligência Artificial
+* Contribuir para projetos Open Source
+
+---
+
+## 🚀 Projetos em Destaque
 
 ### 🏦 Valtech Bank
 
-Python Banking System developed with:
+Sistema bancário desenvolvido em Python com:
 
-* Object-Oriented Programming
-* User Management
-* Account Management
-* Transaction History
-* Banking Operations
+* Programação Orientada a Objetos
+* Cadastro de Usuários
+* Gerenciamento de Contas
+* Histórico de Transações
+* Operações Bancárias
 
-### ⚙️ DevOps Labs
+### ⚙️ Laboratórios DevOps
 
-Hands-on projects involving:
+Projetos práticos envolvendo:
 
 * Docker
 * Linux
 * GitHub Actions
 * CI/CD
-* Cloud Deployments
+* Deploy em Nuvem
 
-### 📊 Data Engineering Projects
+### 📊 Projetos de Engenharia de Dados
 
-* ETL Pipelines
-* Data Processing
-* SQL Analytics
-* Data Automation
+* Pipelines ETL
+* Processamento de Dados
+* Consultas SQL
+* Automação de Processos
 
 ---
 
-## 📈 GitHub Stats
+## 📈 Estatísticas do GitHub
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Valdenor1405\&show_icons=true\&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Valdenor1405\&layout=compact\&theme=tokyonight)
+![Linguagens Mais Utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Valdenor1405\&layout=compact\&theme=tokyonight)
 
 ---
 
-### 💡 Motto
+## 💡 Filosofia
 
-*"Automating processes, building scalable solutions, and transforming data into value."*
+*"Automatizando processos, construindo soluções escaláveis e transformando dados em valor."*
+
+---
+
+### 🚀 Em transição para DevOps, Engenharia de Dados e Inteligência Artificial, unindo mais de 25 anos de experiência industrial à tecnologia moderna.
 
 🔗 GitHub: https://github.com/Valdenor1405
-

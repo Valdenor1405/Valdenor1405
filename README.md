@@ -1,112 +1,96 @@
-# 👋 Olá, eu sou Valdenor Costa de Aquino Filho
+# 👋 Hi, I'm Valdenor Costa de Aquino Filho
 
-## 🚀 Data Engineer | Machine Learning Engineer | DevOps | Industrial AI Specialist
+## 🚀 Data Engineer | AI Engineer | Analytics | DevOps | Risk Intelligence
 
-Profissional com mais de 25 anos de experiência em Automação Industrial, Instrumentação, Sistemas Críticos e Engenharia de Confiabilidade.
+I build data-driven solutions that transform complex problems into intelligent, scalable and automated systems.
 
-Atualmente atuo no desenvolvimento de soluções de Engenharia de Dados, Inteligência Artificial, Machine Learning, Analytics, DevOps, DataOps e MLOps, conectando o mundo operacional (OT) às tecnologias modernas de dados (IT).
+With extensive experience working in mission-critical environments, I specialize in combining Data Engineering, Artificial Intelligence, Analytics, Machine Learning and DevOps to improve decision-making, automate processes and generate business value.
 
-Minha missão é transformar dados em decisões inteligentes, automatizar processos e desenvolver soluções escaláveis para ambientes industriais, financeiros e corporativos.
-
----
-
-# 🎯 Sobre Mim
-
-* 🔭 Desenvolvendo projetos de Engenharia de Dados, IA, Analytics e DevOps
-* 🌱 Aprimorando conhecimentos em Cloud Computing, Kubernetes, DataOps e MLOps
-* 🤝 Aberto para colaborar em projetos Open Source e iniciativas de transformação digital
-* 🌍 Disponível para oportunidades remotas, híbridas e internacionais
-* ♿ Profissional PCD
-* 📈 Apaixonado por tecnologia, automação, dados e inovação
+My focus is on designing reliable solutions for data processing, predictive analytics, anomaly detection, fraud prevention, operational intelligence and digital transformation.
 
 ---
 
-# 🏭 Experiência Profissional
+## 🎯 Core Areas
 
-Mais de 25 anos atuando em:
-
-* Automação Industrial
-* Instrumentação Industrial
-* Engenharia de Confiabilidade
-* Sistemas Críticos
-* Manutenção Industrial
-* Diagnóstico e Solução de Falhas
-* Sistemas de Vapor e Condensado
-* Transformação Digital Industrial
-
-Experiência adquirida em ambientes de alta criticidade operacional nos setores:
-
-* Alimentos e Bebidas
-* Indústria Têxtil
-* Petróleo e Gás
-* Automação Industrial
-* Manufatura
-* Energia
+* Data Engineering
+* Artificial Intelligence
+* Machine Learning
+* Analytics Engineering
+* DevOps
+* DataOps
+* MLOps
+* Cloud Computing
+* Risk Analytics
+* Fraud Detection
+* Financial Crime Intelligence
+* Real-Time Monitoring
 
 ---
 
-# 💡 Especialidades
+## 💡 What I Do
 
 ### 📊 Data Engineering
 
-* ETL / ELT
-* Data Pipelines
-* SQL
-* APIs REST
-* Data Warehouses
-* Data Lakes
-* Processamento de Dados
+* ETL / ELT Pipelines
+* Data Modeling
+* Data Integration
+* API Development
+* SQL & Databases
+* Data Processing Automation
+* Data Quality & Governance
 
 ### 🤖 Artificial Intelligence & Machine Learning
 
-* Machine Learning
-* Modelagem Preditiva
-* Detecção de Anomalias
+* Predictive Analytics
 * Feature Engineering
-* Analytics
-* IA Aplicada à Indústria
-* IA Aplicada ao Mercado Financeiro
+* Anomaly Detection
+* Classification Models
+* Risk Scoring
+* Operational Intelligence
+* AI-Powered Decision Support
 
-### ⚠️ Risk Analytics & Fraud Detection
+### ⚠️ Risk Analytics & Fraud Intelligence
 
-* Risk Analytics
 * Fraud Detection
-* Fraud Intelligence
-* AML (Anti-Money Laundering)
+* Anti-Money Laundering (AML)
 * Financial Crime Analytics
-* Real-Time Monitoring
-* Operational Risk Analytics
+* Transaction Monitoring
+* Operational Risk Analysis
+* Alert Management
+* Real-Time Monitoring Systems
 
-### ⚙️ DevOps | DataOps | MLOps
+### ⚙️ DevOps, DataOps & MLOps
 
-* CI/CD
-* Docker
+* CI/CD Pipelines
 * GitHub Actions
-* Linux
+* Docker
 * Kubernetes
-* Cloud Computing
-* Automação de Ambientes
-* Versionamento e Deploy
+* Linux
+* Cloud Platforms
+* Infrastructure Automation
+* Model Deployment
 
 ---
 
-# 🛠️ Tecnologias e Ferramentas
+## 🛠️ Technology Stack
 
-## Linguagens
+### Languages
 
 * Python
 * SQL
 * JavaScript
 
-## Dados
+### Data & Analytics
 
 * Pandas
 * NumPy
 * Scikit-Learn
-* SQLite
 * PostgreSQL
+* SQLite
+* Power BI
+* Streamlit
 
-## DevOps & Cloud
+### DevOps & Cloud
 
 * Docker
 * Kubernetes
@@ -117,151 +101,141 @@ Experiência adquirida em ambientes de alta criticidade operacional nos setores:
 * AWS
 * Azure
 
-## Analytics & BI
-
-* Power BI
-* Streamlit
-* Dashboards Executivos
-* Data Visualization
-
-## Inteligência Artificial
+### AI & Machine Learning
 
 * Machine Learning
+* Predictive Analytics
 * MLOps
 * DataOps
-* Predictive Analytics
 * Artificial Intelligence
 
 ---
 
-# 🚀 Projetos em Destaque
+## 🚀 Featured Projects
 
-## 🏦 Enterprise Fraud Detection Platform
+### 🏦 Enterprise Fraud Detection Platform
 
-Plataforma de detecção de fraudes utilizando Machine Learning, Risk Analytics e Engenharia de Dados.
+Machine Learning platform designed to identify suspicious transactions, calculate risk scores and support fraud prevention strategies.
 
-### Tecnologias
+**Technologies**
 
 * Python
-* Pandas
 * Scikit-Learn
+* Pandas
+* NumPy
 * SQL
 * Machine Learning
 
-🔗 Projeto:
+🔗 Repository:
 https://github.com/Valdenor1405/enterprise-fraud-detection-platform
 
 ---
 
-## 🌐 Graph AML Fraud Network Analysis
+### 🌐 Graph AML Fraud Network Analysis
 
-Projeto de análise de redes financeiras para detecção de lavagem de dinheiro e crimes financeiros utilizando Graph Analytics.
+Graph Analytics solution for Anti-Money Laundering investigations and financial crime intelligence.
 
-### Tecnologias
+**Highlights**
 
-* Python
-* NetworkX
+* Network Analysis
+* Fraud Investigation
 * AML Analytics
-* Fraud Intelligence
+* Entity Risk Assessment
+* Relationship Discovery
 
-🔗 Projeto:
+🔗 Repository:
 https://github.com/Valdenor1405/graph-aml-fraud-network-analysis
 
 ---
 
-## 🚨 Real-Time Fraud Monitoring & Alert System
+### 🚨 Real-Time Fraud Monitoring & Alert System
 
-Sistema de monitoramento antifraude em tempo real com geração inteligente de alertas e análise de risco.
+Real-time monitoring platform designed to generate alerts, prioritize investigations and support operational risk management.
 
-### Tecnologias
+**Highlights**
 
-* Python
-* Pandas
-* Analytics
-* Risk Scoring
+* Real-Time Monitoring
+* Alert Intelligence
+* Risk Prioritization
+* Operational Analytics
 
-🔗 Projeto:
+🔗 Repository:
 https://github.com/Valdenor1405/real-time-fraud-monitoring-alert-system
 
 ---
 
-## 🏭 Industrial Boiler Monitoring with Machine Learning
+### 📊 Banking Default Prediction
 
-Projeto de monitoramento de caldeira utilizando Machine Learning para detecção de anomalias e suporte à manutenção preditiva.
+End-to-end Data Engineering and Machine Learning project focused on customer default prediction and risk assessment.
 
-### Tecnologias
-
-* Python
-* Machine Learning
-* Power BI
-* Industrial Analytics
-
-🔗 Projeto:
-https://github.com/Valdenor1405/caldeira-ml
-
----
-
-## 📈 Banking Default Prediction
-
-Projeto completo de Engenharia de Dados e Machine Learning para previsão de inadimplência bancária.
-
-### Tecnologias
+**Technologies**
 
 * Python
 * SQL
 * Power BI
 * Machine Learning
+* ETL Pipelines
 
-🔗 Projeto:
+🔗 Repository:
 https://github.com/Valdenor1405/projeto-bancario-inadimplencia-clientes
 
 ---
 
-# 🏢 Domínios de Negócio
+### 📈 Financial Analytics & AI Platform
 
-* Industrial Automation
-* Industry 4.0
-* Reliability Engineering
-* Predictive Maintenance
-* Financial Risk Analytics
-* Fraud Detection
-* Anti-Money Laundering (AML)
-* Operational Intelligence
-* Data-Driven Decision Making
+Data Engineering and Predictive Analytics project focused on financial market analysis and automated insights generation.
+
+**Technologies**
+
+* Python
+* Pandas
+* Machine Learning
+* Data Analytics
+* Reporting Automation
+
+🔗 Repository:
+https://github.com/Valdenor1405/projeto-mercado-financeiro-dados-ia
 
 ---
 
-# 📚 Atualmente Estudando
+## 🎖️ Key Competencies
 
-* Kubernetes
-* Terraform
-* Apache Airflow
-* Apache Spark
-* Cloud Architecture
+* Data Engineering
+* Analytics
+* Artificial Intelligence
+* Machine Learning
+* Fraud Detection
+* Risk Analytics
+* AML
 * DataOps
 * MLOps
-* Azure Machine Learning
-* AWS Data Services
+* DevOps
+* Cloud Computing
+* SQL
+* Python
+* Docker
+* Kubernetes
+* Power BI
+* API Integration
+* Real-Time Monitoring
+* Predictive Modeling
+* Feature Engineering
 
 ---
 
-# 🌐 Conecte-se Comigo
+## 🌍 Current Goals
 
-### LinkedIn
-
-https://www.linkedin.com/in/valdenor-aquino/
-
-### GitHub
-
-https://github.com/Valdenor1405
-
-### E-mail
-
-[valdenor1405@gmail.com](mailto:valdenor1405@gmail.com)
+* Build scalable Data Engineering solutions
+* Develop AI-powered systems
+* Advance in Cloud Architecture
+* Master Kubernetes and Infrastructure Automation
+* Contribute to Open Source projects
+* Design modern Analytics platforms
+* Create intelligent monitoring and decision-support systems
 
 ---
 
-# 📈 GitHub Stats
+## 📈 GitHub Statistics
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Valdenor1405\&show_icons=true\&theme=tokyonight)
 
@@ -271,12 +245,23 @@ https://github.com/Valdenor1405
 
 ---
 
-# 🚀 Objetivo Profissional
+## 🌐 Connect With Me
 
-Atuar em projetos globais de Engenharia de Dados, Inteligência Artificial, Analytics, DevOps e Transformação Digital, aplicando a experiência adquirida em ambientes industriais críticos para construir soluções inteligentes, escaláveis e orientadas por dados.
+🔗 LinkedIn:
+https://www.linkedin.com/in/valdenor-aquino/
+
+💻 GitHub:
+https://github.com/Valdenor1405
+
+📧 Email:
+[valdenor1405@gmail.com](mailto:valdenor1405@gmail.com)
 
 ---
 
-## 💡 Filosofia
+## 💭 Philosophy
 
-> "Transformando experiência operacional em inteligência de dados, automação e inovação."
+> “Technology creates possibilities. Data creates intelligence. Automation creates scale.”
+
+---
+
+### 🚀 Building Data, AI and Analytics solutions for real-world problems.
